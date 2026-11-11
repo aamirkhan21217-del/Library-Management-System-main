@@ -1,6 +1,5 @@
 # Library-Management-System(GUI)
 A Client-Server Architecture Based Library Management System with a decent looking GUI!  
-***PS: It was my class 12th Computer Science Project!!***
 
 
 # Installation
@@ -30,6 +29,6 @@ Password: `toor`
 # Lastly...
 ### Star this repo please ⭐(stop ignoring this message)
 
-Made with lots of ❤ and dedication by **Madhav Yadav**!!
+Made with lots of ❤ and dedication by **Aamir Khan**!!
 
 ![Madhav Yadav](https://avatars.githubusercontent.com/u/66372332?v=4)
