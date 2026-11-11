@@ -26,9 +26,5 @@ Password: `toor`
 
 
 
-# Lastly...
-### Star this repo please ⭐(stop ignoring this message)
+Made by **Aamir Khan**!!
 
-Made with lots of ❤ and dedication by **Aamir Khan**!!
-
-![Madhav Yadav](https://avatars.githubusercontent.com/u/66372332?v=4)
